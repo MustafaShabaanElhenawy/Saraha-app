@@ -16,7 +16,7 @@ A secure and scalable backend application for a **Saraha-style anonymous messagi
 - MongoDB Integration with Mongoose
 - RESTful API Design
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - JavaScript (ES6+)
 - Node.js
