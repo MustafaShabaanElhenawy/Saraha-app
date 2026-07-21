@@ -2,7 +2,7 @@
 
 A secure and scalable backend application for a **Saraha-style anonymous messaging platform**, built with **Node.js**, **Express.js**, and **MongoDB**. The project provides RESTful APIs for authentication, user management, profile management, and anonymous message handling while following clean and modular backend architecture.
 
-## 🚀 Features
+##  Features
 
 - User Authentication & Authorization using JWT
 - User Registration & Login
@@ -28,7 +28,7 @@ A secure and scalable backend application for a **Saraha-style anonymous messagi
 - dotenv
 - Express Validator
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -42,7 +42,7 @@ src/
 └── app.js
 ```
 
-## ⚙️ Installation
+##  Installation
 
 ```bash
 git clone https://github.com/your-username/saraha-app.git
@@ -54,7 +54,7 @@ npm install
 npm start
 ```
 
-## 🔑 Environment Variables
+##  Environment Variables
 
 Create a `.env` file in the project root and configure the following variables:
 
@@ -64,14 +64,14 @@ DB_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 ```
 
-## 📌 API Overview
+##  API Overview
 
 - Authentication
 - User Management
 - Profile Management
 - Anonymous Messages
 
-## 📖 Learning Objectives
+##  Learning Objectives
 
 This project was developed to practice building secure and scalable backend applications by implementing:
 
@@ -83,7 +83,7 @@ This project was developed to practice building secure and scalable backend appl
 - Error Handling
 - API Security
 
-## 👨‍💻 Author
+##  Author
 
 **Mostafa Elhenawy**
 
