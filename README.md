@@ -87,4 +87,4 @@ This project was developed to practice building secure and scalable backend appl
 
 **Mostafa Elhenawy**
 
-Backend Developer | Node.js Developer
+Backend Software Engineer (Node.js) 
